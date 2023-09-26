@@ -32,6 +32,9 @@
   "submit": "Submit",
   "actions": "Actions",
   "apiError": "Something went wrong, please try again later.",
+  "industries": "Industries",
+  "customersNumber": "Customers Number",
+  "projectsNumber": "Projects Number",
   "modal": {
     "delete": "Delete",
     "cancel": "Cancel",

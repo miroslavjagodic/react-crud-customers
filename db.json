@@ -1,8 +1,73 @@
 {
   "customers": [
     {
-      "company": "Edited company (Abbott, Olson and Moen)",
-      "id": "6c855520-58f0-47a1-8636-21268959e763"
+      "id": "40c0bad7-f1a6-4173-bd44-7ebef044905d",
+      "isActive": false,
+      "company": "Abbott, Olson and Moen",
+      "industry": "insurance",
+      "projects": [
+        {
+          "id": "69812942-9b25-4eb1-8fe2-7b3709f9b29e",
+          "name": "User-friendly",
+          "contact": "ldodamead0@wikipedia.org",
+          "start_date": "2021-10-26T03:45:04Z",
+          "end_date": "2022-06-16T16:27:29Z"
+        }
+      ],
+      "about": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+    },
+    {
+      "id": "1798e668-8eb3-424f-8af7-6e6da2515b14",
+      "isActive": true,
+      "company": "Doyle-Kessler",
+      "industry": "travel",
+      "projects": [
+        {
+          "id": "e25fc621-1aed-4898-9714-090f300c75c8",
+          "name": "Grass-roots",
+          "contact": "fsimony1@hostgator.com",
+          "start_date": "2021-10-05T07:33:02Z",
+          "end_date": "2022-05-30T10:40:32Z"
+        },
+        {
+          "id": "64c726d0-c9a2-4a8f-a775-4340da21c721",
+          "name": "dynamic",
+          "contact": "lallibon2@bloglines.com",
+          "start_date": "2022-01-05T11:54:14Z",
+          "end_date": "2022-03-31T17:50:50Z"
+        },
+        {
+          "id": "fa93c65a-0433-479f-bcaa-27fab7b5c57d",
+          "name": "Ergonomic",
+          "contact": "shyslop3@usatoday.com",
+          "start_date": "2021-12-03T22:51:58Z",
+          "end_date": null
+        }
+      ],
+      "about": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+    },
+    {
+      "id": "6c855520-58f0-47a1-8636-21268959e763",
+      "isActive": false,
+      "company": "Abbott, Ullrich and Durgan",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "4653f575-ae02-4d4b-b938-fc32a77f2196",
+          "name": "bifurcated",
+          "contact": "bmose4@domainmarket.com",
+          "start_date": "2022-02-07T14:38:55Z",
+          "end_date": "2022-04-08T17:10:10Z"
+        },
+        {
+          "id": "5a007770-c624-4b07-a010-03637a56a569",
+          "name": "Expanded",
+          "contact": "gneary5@vkontakte.ru",
+          "start_date": "2021-11-16T23:08:06Z",
+          "end_date": "2022-06-17T21:27:34Z"
+        }
+      ],
+      "about": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
     },
     {
       "id": "ea8294be-562d-4196-9329-79560ce84a5e",
@@ -25,30 +90,46 @@
       "isActive": false,
       "company": "O'Hara Group",
       "industry": "marketing",
-      "about": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
       "projects": [
         {
-          "id": "f8780ead-dc2f-4d88-ab2f-798b8f24b136",
+          "id": "cfa4da3e-f50a-4d2a-a3e7-7c189787f09a",
           "name": "encryption",
-          "contact": "jpriddeya@harvard.eduu",
-          "start_date": "01/26/2022",
-          "end_date": "05/25/2022"
+          "contact": "jpriddeya@harvard.edu",
+          "start_date": "2022-01-26T04:11:16Z",
+          "end_date": "2022-05-25T06:36:53Z"
         },
         {
-          "id": "08982cc3-e4d5-4d4c-9c56-b417767d2fc0",
+          "id": "70aa2a78-ca3b-41fa-9627-11d391ae66fa",
           "name": "contextually-based",
-          "contact": "nhindhaughb@amazon.comm",
-          "start_date": "11/01/2021",
-          "end_date": "04/19/2022"
+          "contact": "nhindhaughb@amazon.com",
+          "start_date": "2021-11-18T10:39:28Z",
+          "end_date": "2022-04-19T05:35:00Z"
         },
         {
-          "id": "02aaf3cd-3d0e-4e77-b1dd-a5a4b686923f",
-          "name": "Leading Edge",
+          "id": "a5d28c17-06f1-437a-a491-cd08b6a7e27e",
+          "name": "leading edge",
           "contact": "kmccreaghc@biblegateway.com",
-          "start_date": "12/26/2021",
-          "end_date": "03/31/2022"
+          "start_date": "2021-12-26T14:14:30Z",
+          "end_date": "2022-03-04T21:18:43Z"
         }
-      ]
+      ],
+      "about": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+    },
+    {
+      "id": "d4d25779-0410-4517-9bde-83a8a89a1c18",
+      "isActive": false,
+      "company": "Welch Group",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "ceb2b60f-01e3-4003-8a70-0053c1ed8f55",
+          "name": "national",
+          "contact": "fhedgeleye@naver.com",
+          "start_date": "2021-09-06T14:21:15Z",
+          "end_date": "2022-06-12T17:18:24Z"
+        }
+      ],
+      "about": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
     },
     {
       "id": "ea150b92-8492-4b52-9b80-78095a4bd6d5",
@@ -159,6 +240,14 @@
         }
       ],
       "about": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis."
+    },
+    {
+      "id": "86a38b4d-788c-446c-bdec-336c0b545bfc",
+      "isActive": false,
+      "company": "Schaden, Kuphal and Nikolaus",
+      "industry": "tech",
+      "projects": [],
+      "about": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy."
     },
     {
       "id": "65bec2ff-12cf-40a0-9458-273745f81ea3",
@@ -278,81 +367,6 @@
         }
       ],
       "about": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum."
-    },
-    {
-      "body": {
-        "id": "87559a43-3780-432d-b709-2dbd8746955e",
-        "isActive": true,
-        "company": "Test company 6",
-        "industry": "insurance"
-      },
-      "id": "wLqVGMq"
-    },
-    {
-      "id": "067f8950-73c6-44fb-9db7-f61e77885f21",
-      "isActive": true,
-      "company": "Test company 7",
-      "industry": "insurance"
-    },
-    {
-      "id": "b8c3fd18-71ab-43ea-90ee-16cce4d53033",
-      "isActive": false,
-      "company": "Test Company 1",
-      "industry": "tech",
-      "about": "This is dummy text"
-    },
-    {
-      "id": "46fee536-f1d1-4e31-acd8-a0e9f84e687a",
-      "isActive": true,
-      "company": "Test Finall Create",
-      "industry": "insurance",
-      "about": "About Fianll create cssxsxs",
-      "projects": [
-        {
-          "id": "c118cb18-952f-4706-81a8-b3e6a6233873",
-          "name": "Dad",
-          "contact": "daad@dad.com",
-          "startDate": "09/19/2023",
-          "endDate": "09/25/2023"
-        },
-        {
-          "id": "02243531-7fbe-43c2-9458-773ce3de4f4f",
-          "name": "Mom",
-          "contact": "mom@dad.com",
-          "startDate": "09/02/2023",
-          "endDate": "09/08/2023"
-        }
-      ]
-    },
-    {
-      "id": "1d44e785-5ad1-47fc-9894-9ba9b6e8927d",
-      "isActive": false,
-      "company": "O'Hara Group",
-      "industry": "marketing",
-      "about": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
-      "projects": [
-        {
-          "id": "fa1fae39-3db6-4596-ad17-8124521a152f",
-          "name": "encryption",
-          "contact": "jpriddeya@harvard.eduu",
-          "start_date": "01/26/2022",
-          "end_date": "05/25/2022"
-        },
-        {
-          "id": "a79306a2-38d5-4d45-afb3-5ce7ee8408b2",
-          "name": "contextually-based",
-          "contact": "nnhindhaughb@amazon.com",
-          "start_date": "11/01/2021",
-          "end_date": "04/19/2022"
-        },
-        {
-          "id": "ddeb46f1-45ba-4ea1-845b-b96276a01933",
-          "name": "Leading Edge",
-          "contact": "kmccreaghc@biblegateway.com",
-          "start_date": "12/26/2021",
-          "end_date": "03/31/2022"
-        }
-      ]
     }
   ]
 }
