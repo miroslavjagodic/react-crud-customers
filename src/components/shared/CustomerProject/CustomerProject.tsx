@@ -92,12 +92,20 @@ const CustomerProject: React.FC<CustomerProjectProps> = ({ id, onRemove }) => {
         rules={{ required: true }}
         render={({ field: { onChange, value } }) => (
           <div className="flex flex-col mb-5">
-            <p className="m-0 mb-2 ">{t('startDate')}</p>
+            <p
+              className={`m-0 mb-2 ${
+                isError(id, CreateCustomerForm.StartDate) && 'text-red-500'
+              }`}>
+              {t('startDate')}
+            </p>
             <DatePicker
               defaultValue={value ? dayjs(value) : undefined}
-              id={CreateCustomerForm.Company}
+              id={CreateCustomerForm.StartDate}
               placeholder={t('chooseDate')}
               onChange={onChange}
+              status={
+                isError(id, CreateCustomerForm.StartDate) ? 'error' : undefined
+              }
             />
           </div>
         )}
@@ -108,12 +116,20 @@ const CustomerProject: React.FC<CustomerProjectProps> = ({ id, onRemove }) => {
         rules={{ required: true }}
         render={({ field: { onChange, value } }) => (
           <div className="flex flex-col mb-5">
-            <p className="m-0 mb-2">{t('endDate')}</p>
+            <p
+              className={`m-0 mb-2 ${
+                isError(id, CreateCustomerForm.EndDate) && 'text-red-500'
+              }`}>
+              {t('endDate')}
+            </p>
             <DatePicker
               defaultValue={value ? dayjs(value) : undefined}
-              id={CreateCustomerForm.Company}
+              id={CreateCustomerForm.EndDate}
               placeholder={t('chooseDate')}
               onChange={onChange}
+              status={
+                isError(id, CreateCustomerForm.EndDate) ? 'error' : undefined
+              }
             />
           </div>
         )}

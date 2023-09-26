@@ -22,7 +22,7 @@ const ContentLayout: React.FC<ContentLayoutProps> = ({
         </Title>
         {action}
       </div>
-      <div className="overflow-auto h-full mt-4 px-4 py-6 min-h-[70rem] bg-white">
+      <div className="overflow-auto h-full mt-4 px-4 py-6 bg-white">
         {children}
       </div>
     </div>
