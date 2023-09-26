@@ -6,30 +6,30 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository:
 
-   git clone https://github.com/miroslavjagodic/react-crud-json-server.git
+   `git clone https://github.com/miroslavjagodic/react-crud-json-server.git`
 
-   cd your-project
+   `cd your-project`
 
 2. Install dependencies:
 
-   npm install
+   `npm install`
 
 3. Start the React app:
 
-   npm start
+   `npm start`
 
 4. Start JSON server
 
-   npm run start-server
+   `npm run start-server`
 
 ## Project Structure
 
-`src/` Contains the React application code.
-`hooks` React query hooks to fetch the data.
-`typings` Types
-`utils` Helper functions and enums
-`db.json` JSON file used by json-server to serve data.
-`server.js` Handling CORS policy
+- `src/` Contains the React application code.
+- `hooks` React query hooks to fetch the data.
+- `typings` Types
+- `utils` Helper functions and enums
+- `db.json` JSON file used by json-server to serve data.
+- `server.js` Handling CORS policy
 
 ## Note
 
