@@ -1,0 +1,11 @@
+export { default as Dashboard } from './pages/Dashboard';
+export { default as Customers } from './pages/Customers';
+export { default as CustomerDetails } from './pages/CustomerDetails';
+export { default as CustomerCreate } from './pages/CustomerCreate';
+export { default as CustomerEdit } from './pages/CustomerEdit';
+export { default as CustomerProject } from './shared/CustomerProject';
+export { default as LangSwitcher } from './shared/LangSwitcher';
+export { default as AppBreadcrumbs } from './layouts/AppBreadcrumbs';
+export { default as ModalDelete } from './shared/ModalDelete';
+export { default as Modalnfo } from './shared/Modalnfo';
+export * from './layouts';

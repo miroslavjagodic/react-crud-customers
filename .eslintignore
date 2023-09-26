@@ -1,0 +1,7 @@
+node_modules
+jest.setup.js
+fileTransformer.js
+babel.config.js
+tailwind.config.js
+i18n.js
+server.js

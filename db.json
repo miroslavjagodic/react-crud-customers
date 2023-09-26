@@ -1,0 +1,358 @@
+{
+  "customers": [
+    {
+      "company": "Edited company (Abbott, Olson and Moen)",
+      "id": "6c855520-58f0-47a1-8636-21268959e763"
+    },
+    {
+      "id": "ea8294be-562d-4196-9329-79560ce84a5e",
+      "isActive": true,
+      "company": "Bahringer, Rice and Dach",
+      "industry": "marketing",
+      "projects": [
+        {
+          "id": "1707b182-2bf7-45c2-874f-7cfa63c6d6b7",
+          "name": "Automated",
+          "contact": "kphillpotts6@sina.com.cn",
+          "start_date": "2021-11-07T11:23:23Z",
+          "end_date": null
+        }
+      ],
+      "about": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+    },
+    {
+      "id": "61afbb01-447f-4b36-8dc4-36feaa791d43",
+      "isActive": false,
+      "company": "O'Hara Group",
+      "industry": "marketing",
+      "about": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+      "projects": [
+        {
+          "id": "f8780ead-dc2f-4d88-ab2f-798b8f24b136",
+          "name": "encryption",
+          "contact": "jpriddeya@harvard.eduu",
+          "start_date": "01/26/2022",
+          "end_date": "05/25/2022"
+        },
+        {
+          "id": "08982cc3-e4d5-4d4c-9c56-b417767d2fc0",
+          "name": "contextually-based",
+          "contact": "nhindhaughb@amazon.comm",
+          "start_date": "11/01/2021",
+          "end_date": "04/19/2022"
+        },
+        {
+          "id": "02aaf3cd-3d0e-4e77-b1dd-a5a4b686923f",
+          "name": "Leading Edge",
+          "contact": "kmccreaghc@biblegateway.com",
+          "start_date": "12/26/2021",
+          "end_date": "03/31/2022"
+        }
+      ]
+    },
+    {
+      "id": "ea150b92-8492-4b52-9b80-78095a4bd6d5",
+      "isActive": true,
+      "company": "Haley Group",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "60fbad93-641d-4da0-80c1-2f909ac8ca77",
+          "name": "Polarised",
+          "contact": "kferschkej@ehow.com",
+          "start_date": "2021-09-12T02:43:13Z",
+          "end_date": "2022-05-28T06:56:06Z"
+        },
+        {
+          "id": "c03f79e9-67d8-4b5e-8d90-61ecc2746042",
+          "name": "dynamic",
+          "contact": null,
+          "start_date": "2021-12-15T08:41:09Z",
+          "end_date": null
+        }
+      ],
+      "about": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+    },
+    {
+      "id": "de616651-8488-4847-9d40-db04e8ec4df2",
+      "isActive": true,
+      "company": "Herzog-Schaefer",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "81dc0796-e0f7-4b83-80c5-b34d2fb03e9a",
+          "name": "implementation",
+          "contact": null,
+          "start_date": "2021-11-12T16:38:44Z",
+          "end_date": null
+        }
+      ],
+      "about": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+    },
+    {
+      "id": "23a7e14a-065d-43a0-bf88-f8c581d8365a",
+      "isActive": true,
+      "company": "Sporer Inc",
+      "industry": "insurance",
+      "projects": [
+        {
+          "id": "881e1f5a-eaa7-4031-a13f-072d9b0845cc",
+          "name": "multi-state",
+          "contact": "lgeggusi@ebay.co.uk",
+          "start_date": "2021-12-10T12:40:12Z",
+          "end_date": null
+        },
+        {
+          "id": "ce872168-0aef-48e6-9436-1fc66fe60479",
+          "name": "hybrid",
+          "contact": "mlynettl@diigo.com",
+          "start_date": "2021-10-16T17:58:13Z",
+          "end_date": "2022-04-02T14:53:21Z"
+        }
+      ],
+      "about": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo."
+    },
+    {
+      "id": "ede3e3be-ebba-4465-a3a0-741a85334570",
+      "isActive": true,
+      "company": "Keebler, Ernser and Gorczany",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "4c15be4e-b4e3-4303-8e65-abcce52d6a68",
+          "name": "capability",
+          "contact": null,
+          "start_date": "2021-11-20T16:00:50Z",
+          "end_date": null
+        }
+      ],
+      "about": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+    },
+    {
+      "id": "11526b6d-737d-432f-ad2a-7038ab37ad06",
+      "isActive": true,
+      "company": "Schimmel LLC",
+      "industry": "travel",
+      "projects": [
+        {
+          "id": "26d96214-75a6-44d5-80ab-e4d78a0ef32b",
+          "name": "Exclusive",
+          "contact": null,
+          "start_date": "2021-11-30T10:32:23Z",
+          "end_date": null
+        }
+      ],
+      "about": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis."
+    },
+    {
+      "id": "8ca87203-ff45-481c-a993-59fa7488fd57",
+      "isActive": false,
+      "company": "Kuhlman Inc",
+      "industry": "tech",
+      "projects": [
+        {
+          "id": "a12a0972-b8b3-46e8-9318-041f86d1a311",
+          "name": "Balanced",
+          "contact": "siscowitzt@tripadvisor.com",
+          "start_date": "2021-08-30T11:57:17Z",
+          "end_date": "2022-04-22T06:58:46Z"
+        }
+      ],
+      "about": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis."
+    },
+    {
+      "id": "65bec2ff-12cf-40a0-9458-273745f81ea3",
+      "isActive": true,
+      "company": "Braun LLC",
+      "industry": "marketing",
+      "projects": [
+        {
+          "id": "79ac0717-3242-4978-be7b-7e7874734736",
+          "name": "Programmable",
+          "contact": "bnickersonf@state.tx.us",
+          "start_date": "2022-01-18T06:09:31Z",
+          "end_date": null
+        }
+      ],
+      "about": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+      "id": "19e16959-4fec-4367-abfe-89198c173a83",
+      "isActive": false,
+      "company": "Murphy-Lehner",
+      "industry": "travel",
+      "projects": [],
+      "about": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl."
+    },
+    {
+      "id": "85f250c0-71a9-478f-a0e4-46c202b4c37a",
+      "isActive": false,
+      "company": "Connelly Group",
+      "industry": "travel",
+      "projects": [
+        {
+          "id": "3bf36aeb-8376-4715-bad8-0ada0b767fa4",
+          "name": "Fundamental",
+          "contact": "cmccoveneyg@google.com",
+          "start_date": "2021-09-29T15:53:25Z",
+          "end_date": "2022-05-30T00:55:22Z"
+        }
+      ],
+      "about": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+    },
+    {
+      "id": "ea285ecc-e2fd-4c5b-b717-3d631e569b97",
+      "isActive": false,
+      "company": "Blick, Brekke and Mosciski",
+      "industry": "marketing",
+      "projects": [
+        {
+          "id": "a9d325c1-8d69-4bea-8909-c4886c36a38d",
+          "name": "Organized",
+          "contact": "ndarcor@bloomberg.com",
+          "start_date": "2021-12-09T17:22:11Z",
+          "end_date": "2022-05-06T18:17:51Z"
+        }
+      ],
+      "about": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti."
+    },
+    {
+      "id": "96cdb02e-3c21-44ce-93ea-e3b458c55061",
+      "isActive": true,
+      "company": "Mohr, Wyman and Hintz",
+      "industry": "finance",
+      "projects": [
+        {
+          "id": "da3292ac-cece-4882-95e2-64f0e03aafaf",
+          "name": "incremental",
+          "contact": null,
+          "start_date": "2021-11-22T09:06:04Z",
+          "end_date": null
+        }
+      ],
+      "about": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+      "id": "3cd48f03-d076-4b86-a970-b530e5f495cd",
+      "isActive": false,
+      "company": "Paucek, Mraz and Nicolas",
+      "industry": "finance",
+      "projects": [],
+      "about": "Nulla tellus."
+    },
+    {
+      "id": "f9c1e893-4408-4933-bdf8-bafca58da854",
+      "isActive": true,
+      "company": "Effertz, Wisoky and Macejkovic",
+      "industry": "insurance",
+      "projects": [
+        {
+          "id": "c9ea3170-bc2b-4111-87b9-edb8ad5b6af5",
+          "name": "systemic",
+          "contact": null,
+          "start_date": "2021-09-09T00:11:05Z",
+          "end_date": null
+        },
+        {
+          "id": "1c4cee7d-1844-4bee-b886-b281b7dd7ae0",
+          "name": "Implemented",
+          "contact": "jhousbies@zdnet.com",
+          "start_date": "2021-09-22T14:17:55Z",
+          "end_date": "2022-06-26T20:58:16Z"
+        }
+      ],
+      "about": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat."
+    },
+    {
+      "id": "0f59db8f-4f8d-4eba-b87f-e7304c89d3b8",
+      "isActive": true,
+      "company": "Kutch Inc",
+      "industry": "marketing",
+      "projects": [
+        {
+          "id": "7410fb20-994a-4afa-a185-2d0404673e0d",
+          "name": "Customer-focused",
+          "contact": null,
+          "start_date": "2021-10-20T19:28:03Z",
+          "end_date": null
+        }
+      ],
+      "about": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum."
+    },
+    {
+      "body": {
+        "id": "87559a43-3780-432d-b709-2dbd8746955e",
+        "isActive": true,
+        "company": "Test company 6",
+        "industry": "insurance"
+      },
+      "id": "wLqVGMq"
+    },
+    {
+      "id": "067f8950-73c6-44fb-9db7-f61e77885f21",
+      "isActive": true,
+      "company": "Test company 7",
+      "industry": "insurance"
+    },
+    {
+      "id": "b8c3fd18-71ab-43ea-90ee-16cce4d53033",
+      "isActive": false,
+      "company": "Test Company 1",
+      "industry": "tech",
+      "about": "This is dummy text"
+    },
+    {
+      "id": "46fee536-f1d1-4e31-acd8-a0e9f84e687a",
+      "isActive": true,
+      "company": "Test Finall Create",
+      "industry": "insurance",
+      "about": "About Fianll create cssxsxs",
+      "projects": [
+        {
+          "id": "c118cb18-952f-4706-81a8-b3e6a6233873",
+          "name": "Dad",
+          "contact": "daad@dad.com",
+          "startDate": "09/19/2023",
+          "endDate": "09/25/2023"
+        },
+        {
+          "id": "02243531-7fbe-43c2-9458-773ce3de4f4f",
+          "name": "Mom",
+          "contact": "mom@dad.com",
+          "startDate": "09/02/2023",
+          "endDate": "09/08/2023"
+        }
+      ]
+    },
+    {
+      "id": "1d44e785-5ad1-47fc-9894-9ba9b6e8927d",
+      "isActive": false,
+      "company": "O'Hara Group",
+      "industry": "marketing",
+      "about": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.",
+      "projects": [
+        {
+          "id": "fa1fae39-3db6-4596-ad17-8124521a152f",
+          "name": "encryption",
+          "contact": "jpriddeya@harvard.eduu",
+          "start_date": "01/26/2022",
+          "end_date": "05/25/2022"
+        },
+        {
+          "id": "a79306a2-38d5-4d45-afb3-5ce7ee8408b2",
+          "name": "contextually-based",
+          "contact": "nnhindhaughb@amazon.com",
+          "start_date": "11/01/2021",
+          "end_date": "04/19/2022"
+        },
+        {
+          "id": "ddeb46f1-45ba-4ea1-845b-b96276a01933",
+          "name": "Leading Edge",
+          "contact": "kmccreaghc@biblegateway.com",
+          "start_date": "12/26/2021",
+          "end_date": "03/31/2022"
+        }
+      ]
+    }
+  ]
+}
